@@ -1,0 +1,10 @@
+# GRAPELIME
+                    
+                                       TODO LIST
+                    
+  1.ADD TASKS TO THE TODO LIST
+  2.TODO LIST CAN BE SORTED BY DRAG AND DROP
+  3.AFTER COMPLETING THE TASK IN TODO LIST YOU CAN CHANGE THE STATUS
+   
+                                 CORE PHP,JQUERY AND JAVASCRIPT IS USED TO COMPLETE THIS ASSIGNMENT
+   
